@@ -10,7 +10,7 @@ function Counter(){
 
     function Random(){
 
-        SetCount(Math.floor(Math.random()*50)+1)
+        SetCount(Math.floor(Math.random()*10)+1)
 
     }
 
